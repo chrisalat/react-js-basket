@@ -1,0 +1,32 @@
+---
+title: Basket
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: salat.christian@googlemail.com
+description: 'Awesome description.
+
+'
+baseurl: 
+url: 
+twitter_username: 
+github_username: basket
+markdown: kramdown
+theme: minima
+gems:
+- jekyll-feed
+exclude:
+- src
+- gulpfile.js
+- node_modules
+- package.json
+- webpack.config.js
+- ".gitignore"
+- bower.json
+- README.md
+- bower_components

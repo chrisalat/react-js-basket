@@ -1,0 +1,8 @@
+# Exclude files:
+
+# User-specific files
+node_modules
+.sass-cache
+bower_components
+.idea
+*.DS_Store

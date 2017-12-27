@@ -1,0 +1,51 @@
+{
+  "categorie": [
+    "Italenisch",
+    "Chinesisch"
+  ],
+  "minOrder": "20.00",
+  "driveTax": "2.00",
+  "otherTax": "4.30",
+  "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+  "taxOne": "15",
+  "taxTwo": "12",
+  "taxThree": "9",
+  "taxFour": "6",
+  "productList": [
+    {
+      "id": 1,
+      "mainTitle": "Produkt 1",
+      "subTitle": "Dieses Produkte hat viele Eigenschaften 1",
+      "productPrice": "12.45",
+      "number": 1
+    },
+    {
+      "id": 2,
+      "mainTitle": "Produkt 2",
+      "subTitle": "Dieses Produkte hat viele Eigenschaften 2",
+      "productPrice": "22.30",
+      "number": 1
+    },
+    {
+      "id": 3,
+      "mainTitle": "Produkt 3",
+      "subTitle": "Dieses Produkte hat viele Eigenschaften 3",
+      "productPrice": "15.30",
+      "number": 1
+    },
+    {
+      "id": 4,
+      "mainTitle": "Produkt 4",
+      "subTitle": "Dieses Produkte hat viele Eigenschaften 4",
+      "productPrice": "9.30",
+      "number": 1
+    },
+    {
+      "id": 5,
+      "mainTitle": "Produkt 5",
+      "subTitle": "Dieses Produkte hat viele Eigenschaften 5",
+      "productPrice": "4.30",
+      "number": 1
+    }
+  ]
+}
